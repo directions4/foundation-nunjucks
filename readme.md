@@ -1,8 +1,5 @@
 # foundation-nunjucks
 
-[![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
-
-
 This is the front-end development kit for use with [Foundation for Sites](http://foundation.zurb.com/sites). It has a Gulp-powered build system with these features:
 
 - Nunjucks HTML templates
