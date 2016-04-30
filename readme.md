@@ -18,8 +18,6 @@ To use this template, your computer needs:
 - [NodeJS](https://nodejs.org/en/) (0.12 or greater)
 - [Git](https://git-scm.com/)
 
-This template can be installed with the Foundation CLI, or downloaded and set up manually.
-
 ### Setup
 
 To manually set up the template, first download it with Git:
