@@ -7,8 +7,14 @@
     "start": "gulp",
     "build": "gulp build --production"
   },
-  "author": "directions4",
+  "author": "satoru4kata",
   "license": "MIT",
+  "keywords": [
+    "foundation 6",
+    "nunjucks",
+    "sass",
+    "scss"
+  ],
   "devDependencies": {
     "babel-core": "^6.3.17",
     "babel-plugin-transform-es2015-arrow-functions": "^6.5.2",
@@ -56,5 +62,5 @@
     "type": "git",
     "url": "https://github.com:directions4/foundation-nunjucks.git"
   },
-  "private": true
+  "private": false
 }
