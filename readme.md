@@ -23,7 +23,7 @@ To use this template, your computer needs:
 To manually set up the template, first download it with Git:
 
 ```bash
-git clone https://github.com:directions4/foundation-nunjucks.git projectname
+git clone https://github.com/directions4/foundation-nunjucks projectname
 ```
 
 Then open the folder in your command line, and install the needed dependencies:
