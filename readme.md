@@ -20,8 +20,15 @@ To use this template, your computer needs:
 
 ### Setup
 
-To manually set up the template, first download it with Git:
+To manually set up the template, first download it with npm or git:
 
+#### from npm
+```bash
+npm init
+npm install foundation-nunjucks --save-dev
+```
+
+#### from github
 ```bash
 git clone https://github.com/directions4/foundation-nunjucks projectname
 ```
