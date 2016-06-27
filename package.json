@@ -1,6 +1,6 @@
 {
   "name": "foundation-nunjucks",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Template for Foundation for Sites.",
   "main": "gulpfile.js",
   "scripts": {
