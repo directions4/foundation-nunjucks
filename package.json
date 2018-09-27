@@ -48,7 +48,7 @@
         "gulp-sourcemaps": "^2.0.0-alpha",
         "gulp-uglify": "^2.0.0",
         "gulp-uncss": "^1.0.1",
-        "jquery": "^2.2.4",
+        "jquery": "^3.3.1",
         "jquery-lazyload": "^1.9.7",
         "jquery-powertip": "^1.2.0",
         "jquery.cookie": "^1.4.1",
@@ -64,7 +64,9 @@
         "url": "https://github.com/directions4/foundation-nunjucks"
     },
     "babel": {
-        "presets": ["es2015"]
+        "presets": [
+            "es2015"
+        ]
     },
     "private": false
 }
